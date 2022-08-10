@@ -4,7 +4,7 @@ m2en@m9yo ~/github.com/m2en
 > $ gh open m2en profile
 ```
 
-```
+```shell
 > $ gh profile open status
 ```
 
@@ -16,7 +16,7 @@ m2en@m9yo ~/github.com/m2en
 
 </p>
 
-```
+```shell
 > $ gh profile open languages
 ```
 
@@ -29,7 +29,7 @@ m2en@m9yo ~/github.com/m2en
 - [Rust](https://www.rust-lang.org/)
 - [Kotlin](https://kotlinlang.org/)
 
-```
+```shell
 > $ gh profile open skill-other
 ```
 
@@ -41,7 +41,7 @@ m2en@m9yo ~/github.com/m2en
 
 ![WSL2 Arch](image/025032.png)
 
-```
+```shell
 > $ gh profile open wakatime
 ```
 
