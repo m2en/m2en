@@ -46,4 +46,9 @@ m2en@m9yo ~/github.com/m2en
 ```
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
