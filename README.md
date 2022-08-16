@@ -42,6 +42,9 @@ Fingerpoint: `6E23C654C587E55DFAFA8D4715DB72F06F2ACC5C`
 ```
 
 - JetBrains
+  - IntelliJ IDEA
+  - WebStorm
+  - CLion
 - Git
 - WSL2 (Arch)
 - Windows Terminal
