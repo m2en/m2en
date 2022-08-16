@@ -17,6 +17,14 @@ m2en@m9yo ~/github.com/m2en
 </p>
 
 ```shell
+> $ gh profile open gpg
+```
+
+Fingerpoint: `6E23C654C587E55DFAFA8D4715DB72F06F2ACC5C`
+
+[keybase](https://keybase.io/merunno)
+
+```shell
 > $ gh profile open languages
 ```
 
