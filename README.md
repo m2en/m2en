@@ -39,21 +39,6 @@ Fingerpoint: `6E23C654C587E55DFAFA8D4715DB72F06F2ACC5C`
 - [Kotlin](https://kotlinlang.org/)
 
 ```shell
-> $ gh profile open skill-other
-```
-
-- JetBrains
-  - IntelliJ IDEA
-  - WebStorm
-  - CLion
-- Git
-- WSL2 (Arch)
-- Windows Terminal
-- DevToys
-
-![WSL2 Arch](image/025032.png)
-
-```shell
 > $ gh profile open wakatime
 ```
 
