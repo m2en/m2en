@@ -10,10 +10,10 @@ m2en@m9yo ~/github.com/m2en
 
 <p align="left"> 
 
+  <img alt="github streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=m2en" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=m2en&show_icons=true&count_private=true&theme=material-palenight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2en&layout=compact&theme=material-palenight" />
   <img alt="github stats" height="150px" src="https://github-profile-trophy.vercel.app/?username=m2en&theme=dracula&row=1&column=8" />
-  <img alt="github streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=m2en" />
 
 </p>
 
