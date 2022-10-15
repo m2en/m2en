@@ -21,9 +21,9 @@ m2en@m9yo ~/github.com/m2en
 > $ gh profile open gpg
 ```
 
-Fingerpoint: `6E23C654C587E55DFAFA8D4715DB72F06F2ACC5C`
+Fingerpoint: `AE38 53E8 164B E486 98A3 674B 2837 1F95 3122 F360`
 
-[keybase](https://keybase.io/merunno)
+[pgp_keys.asc](https://keybase.io/m2en/pgp_keys.asc?fingerprint=ae3853e8164be48698a3674b28371f953122f360)
 
 ```shell
 > $ gh profile open languages
@@ -32,11 +32,12 @@ Fingerpoint: `6E23C654C587E55DFAFA8D4715DB72F06F2ACC5C`
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Java](https://www.java.com/en/)
+- [Kotlin](https://kotlinlang.org/)
+
 
 (.... learning...)
 
 - [Rust](https://www.rust-lang.org/)
-- [Kotlin](https://kotlinlang.org/)
 
 ```shell
 > $ gh profile open wakatime
