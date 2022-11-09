@@ -13,12 +13,12 @@ Fingerpoint: `AE38 53E8 164B E486 98A3 674B 2837 1F95 3122 F360`
 > $ gh profile open languages
 ```
 
+I learn every day.... Maybe
+
 [TypeScript](https://www.typescriptlang.org/) /
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) /
 [Java](https://www.java.com/en/) / [Kotlin](https://kotlinlang.org/) /
 [Rust](https://www.rust-lang.org/)
-
-I learn every day.... Maybe
 
 ```shell
 > $ gh profile open status
@@ -38,7 +38,7 @@ I learn every day.... Maybe
 > $ gh profile open wakatime
 ```
 
-<!--自動更新, https://github.com/m2en/m2en/actions-->
+<!--自動更新です。週末に行こなわれます。手動更新するにはActionsページから `Runs workflows` を選んでください。: https://github.com/m2en/m2en/actions/workflows/wakatime.yml -->
 
 <!--START_SECTION:waka-->
 
