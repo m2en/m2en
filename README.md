@@ -36,7 +36,12 @@ I learn every day.... Maybe
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 November 2022 - To: 01 December 2022
+
+Total Time: 5 mins
+
+TypeScript   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀   73.82 %
+Markdown     1 min           ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.18 %
 ```
 
 <!--END_SECTION:waka-->
