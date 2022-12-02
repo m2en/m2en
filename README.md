@@ -5,9 +5,9 @@ m2en@m9yo ~/github.com/m2en
 > $ gh profile open gpg
 ```
 
-Fingerpoint: `AE38 53E8 164B E486 98A3 674B 2837 1F95 3122 F360`
+Fingerpoint: `78E4 CFE0 B3B2 0C4C 7BAA A3CA 6554 A829 D251 53F9`
 
-[pgp_keys.asc](https://keybase.io/m2en/pgp_keys.asc?fingerprint=ae3853e8164be48698a3674b28371f953122f360)
+[pgp_keys.asc](https://keybase.io/m2en/pgp_keys.asc?fingerprint=78e4cfe0b3b20c4c7baaa3ca6554a829d25153f9)
 
 ```shell
 > $ gh profile open languages
@@ -15,10 +15,7 @@ Fingerpoint: `AE38 53E8 164B E486 98A3 674B 2837 1F95 3122 F360`
 
 I learn every day.... Maybe
 
-[TypeScript](https://www.typescriptlang.org/) /
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) /
-[Java](https://www.java.com/en/) / [Kotlin](https://kotlinlang.org/) /
-[Rust](https://www.rust-lang.org/)
+[TypeScript](https://www.typescriptlang.org/) / [Kotlin](https://kotlinlang.org/)
 
 ```shell
 > $ gh profile open status
