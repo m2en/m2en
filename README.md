@@ -13,8 +13,6 @@ Fingerpoint: `78E4 CFE0 B3B2 0C4C 7BAA A3CA 6554 A829 D251 53F9`
 > $ gh profile open languages
 ```
 
-I learn every day.... Maybe
-
 [TypeScript](https://www.typescriptlang.org/) / [Kotlin](https://kotlinlang.org/)
 
 ```shell
