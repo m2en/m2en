@@ -23,7 +23,7 @@ Fingerpoint: `78E4 CFE0 B3B2 0C4C 7BAA A3CA 6554 A829 D251 53F9`
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=m2en&show_icons=true&count_private=true&theme=material-palenight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2en&layout=compact&theme=material-palenight" />
-<img alt="github stats(lang)" height="150px" src="https://github-profile-trophy.vercel.app/?username=m2en&theme=dracula&row=1&column=8&exclude_repo=dotfiles&hide=Shell" />
+<img alt="github stats(lang)" height="150px" src="https://github-profile-trophy.vercel.app/?username=m2en&theme=dracula&row=1&column=8&exclude_repo=dotfiles&hide=shell" />
 
 ```shell
 > $ gh profile open wakatime
